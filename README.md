@@ -1,3 +1,6 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaehak24&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+
 - 👋 Hi, I’m @jaehak24
 - 👀 I’m interested in VR/android/unity/web/machine learning and so on
 - 📫 I’m currently learning Unity & Unreal Engine 4 & basic computer science & React Native
