@@ -11,7 +11,8 @@
   3. BigQuerry(GCP)  
 - 💞️ I’m looking forward to make Open world gaem in indi scenes.
 - 💞️ And it would be happy to work with the GCP, salesforce, and the other big data stream analyzing company
-- 🌱 How to reach me jaehak24@gmail.com
+- 🌱 How to reach me in personal jaehak24@gmail.com
+- 🏢 How to reach me in business jhak_lee@daesang.com
 
 <!---
 jaehak24/jaehak24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
