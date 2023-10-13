@@ -3,8 +3,14 @@
 
 - 👋 Hi, I’m Jaehak Lee
 - 👀 I’m interested in VR/android/unity/web/machine learning and so on
-- 📫 I’m currently learning Spring, JPA, Spring Securtiy
-- 💞️ I’m looking to collaborate on ...???
+- 📫 I’m currently learning in 2 Major part
+  1. Game Dev
+   1-1 usuall in my personal time, Unreal Engine, direct and etc
+   1-2 modelling assetes using blender and etc
+  2. Salesforce Marketing Admin
+  3. BigQuerry(GCP)  
+- 💞️ I’m looking forward to make Open world gaem in indi scenes.
+- 💞️ And it would be happy to work with the GCP, salesforce, and the other big data stream analyzing company
 - 🌱 How to reach me jaehak24@gmail.com
 
 <!---
