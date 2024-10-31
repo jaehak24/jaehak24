@@ -12,9 +12,10 @@
      * admin for making CI, Salesforce updates and so on
       
   3. Game Dev
-   1-1 usu my personal time, Unreal Engine, direct and etc
-   1-2 modelling assetes using blender and etc 
-  4. BigQuerry(GCP), Kagka, snowflakes would be my future roadmap to learn
+   1-1 use my personal time, Unreal Engine, direct and etc
+   1-2 modelling assetes using blender and etc
+     
+  5. BigQuerry(GCP), Kagka, snowflakes would be my future roadmap to learn
   
 - 💞️ I’m looking forward to work with
       big data streaming and analyzing company
