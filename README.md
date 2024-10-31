@@ -2,15 +2,22 @@
 
 
 - 👋 Hi, I’m Jaehak Lee
-- 👀 I’m interested in VR/android/unity/web/machine learning and so on
+- 👀 I’m interested in Salesforce Marketing Cloud/ Data Cloud/ Unreal Engine and so on
 - 📫 I’m currently learning in 2 Major part
-  1. Game Dev
-   1-1 usuall in my personal time, Unreal Engine, direct and etc
-   1-2 modelling assetes using blender and etc
-  2. Salesforce Marketing Admin
-  3. BigQuerry(GCP)  
-- 💞️ I’m looking forward to make Open world gaem in indi scenes.
-- 💞️ And it would be happy to work with the GCP, salesforce, and the other big data stream analyzing company
+
+- 1. Marketing Cloud
+     Salesforce Marketing Admin & Developer
+  2. Data Cloud
+     * Constructing and maintating pipelines for Data Cloud from legacy
+     * admin for making CI, Salesforce updates and so on
+      
+  3. Game Dev
+   1-1 usu my personal time, Unreal Engine, direct and etc
+   1-2 modelling assetes using blender and etc 
+  4. BigQuerry(GCP), Kagka, snowflakes would be my future roadmap to learn
+  
+- 💞️ I’m looking forward to work with
+      big data streaming and analyzing company
 - 🌱 How to reach me in personal jaehak24@gmail.com
 - 🏢 How to reach me in business jhak_lee@daesang.com
 
